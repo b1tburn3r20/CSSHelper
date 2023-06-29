@@ -37,4 +37,4 @@ def parse_and_rewrite_css(file_path):
             f.write("}\n")
 
 if __name__ == "__main__":
-    parse_and_rewrite_css('./input.css')  # replace with your file path
+    parse_and_rewrite_css('./input.css')  # use input.css as a place to copy paste your code blocks for optimizing 
